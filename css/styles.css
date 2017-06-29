@@ -5,6 +5,9 @@
   margin-left: 250px;
   }
 
+.wiki {
+  margin-bottom: 22px;
+}
 .navframe{
   float: left;
   }
@@ -17,6 +20,15 @@
   margin: 10px;
 }
 
+.unbulleted{
+  list-style: none;
+  font-size: 10pt;
+}
+h4 {
+  text-decoration: underline;
+  margin-left: 40px;
+  font-size: 10pt;
+}
 h5{
   text-align: center;
 }
@@ -50,8 +62,19 @@ h5{
   float: left;
   clear: left;
   height: 470px;
+}
+.column0 {
+  background-color: #f4f4f4;
+  width: 98%;
+  float: left;
+  padding: 5px;
+  margin: 2px;
+  border: 1px solid #a3bfb1;
+  height: 120px;
 
 }
+
+
 
 .list1{
   background-color: #d9f9de;
@@ -89,6 +112,17 @@ h5{
 .rpicture {
   float: right;
 }
-.story > * {
+/*.story > * {
   vertical-align: middle;
+}*/
+.column0a {
+  width: 60%;
+  text-align: center;
+}
+.column0b {
+  width: 40%;
+  text-align: left;
+
+
+
 }
