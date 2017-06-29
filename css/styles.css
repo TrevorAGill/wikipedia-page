@@ -4,7 +4,9 @@
   margin-right: 0px;
   margin-left: 250px;
   }
-
+body {
+  background: #e8e8e8;
+}
 .wiki {
   margin-bottom: 22px;
 }
@@ -14,6 +16,9 @@
 
 .mainframe{
   float: left;
+  background: white;
+  border: 1px solid lightblue;
+  padding-left: 10px;
 }
 
 .col-md-1{
@@ -24,6 +29,18 @@
   list-style: none;
   font-size: 10pt;
 }
+.bottomt {
+  text-decoration: underline;
+  font-weight: 300;
+  font-family: serif;
+  margin-top: 15px;
+  padding-top: 15px;
+}
+/*h3 {
+  text-decoration: underline;
+  font-weight: 300;
+  font-family: serif;
+}*/
 h4 {
   text-decoration: underline;
   margin-left: 40px;
