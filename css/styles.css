@@ -2,13 +2,14 @@
   padding-right: 15px;
   padding-left: 15px;
   margin-right: 0px;
-  margin-left: 250px;
+  margin-left: 175px;
   }
 body {
   background: #e8e8e8;
 }
 .wiki {
   margin-bottom: 22px;
+  margin-left: 22px;
 }
 .navframe{
   float: left;
@@ -42,9 +43,10 @@ body {
   font-family: serif;
 }*/
 h4 {
-  text-decoration: underline;
+  border-bottom: 1px solid #4d4d4d;
   margin-left: 40px;
   font-size: 10pt;
+  color: #4d4d4d;
 }
 h5{
   text-align: center;
